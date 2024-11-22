@@ -1,7 +1,7 @@
 ﻿Auteurs du projet : 
 		NICOLAS AUBRY
 		GALLIS ROBIN
-		MAURAND PIERRE
+		MAURAND Julia
 		THOMAS FILLION
 		
 
